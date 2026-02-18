@@ -8,7 +8,7 @@ cmd(
     filename: __filename,
   },
   async (
-    vimaa,
+    vima,
     mek,
     m,
     {
@@ -45,4 +45,5 @@ cmd(
     }
   }
 );
+
 
